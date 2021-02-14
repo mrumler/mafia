@@ -2,7 +2,7 @@
 layout: default
 title: Home
 include-social-icons: true
-base_url: "../"
+base_url: ""
 ---
 
 <h1 class="banner">Mafia</h1>
