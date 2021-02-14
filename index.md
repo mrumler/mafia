@@ -20,20 +20,11 @@ Der Zweck dieser Seite ist ein nachschlagbares Regelwerk für alle Spieler zu bi
 
 ### Wie kann ich mitspielen?
 
-Wir probieren jeden Samstag zu spielen. (Stand: 16.07.15) Du kannst einfach [ins Teamspeak kommen](ts3server://gamekeller.net?port=9987) und mitspielen oder auch erst einmal zuhören. Wir eröffnen auch Events bei [Steam](http://steamcommunity.com/groups/gamekeller#events) und [Facebook](https://www.facebook.com/groups/178919188822122/events/).
+Wir probieren jeden Freitag Abend zu spielen. Du kannst einfach [ins Teamspeak kommen](ts3server://arrestia.de?port=9987) und mitspielen oder auch erst einmal zuhören. 
 
 ### Kann ich helfen, das Regelwerk auszubauen?
 
-Sehr gerne, wir freuen uns immer, wenn jemand Fehler findet, die wir beheben können oder Leute sogar komplett neue Rollen (er)finden. Entweder du eröffnest ein Ticket in unserem [GitHub Bug Tracker](https://github.com/gamekeller/mafia), schreibst Yeti eine [E-Mail](mailto:yeti@gamekeller.net) oder postest deine Idee in unserem [Subreddit](https://www.reddit.com/r/gamekeller).
-
-Gamekeller Teamspeak Mafia ist–wie man sich denken kann–ein Gamekeller Projekt. Ihr seid also eingeladen unseren ganzen Kram auszuchecken:
-
-<div>
-  <a class="icon" href="https://www.facebook.com/gamekeller.de">{% include icon.html icon="facebook" %}</a>
-  <a class="icon" href="https://www.reddit.com/r/gamekeller">{% include icon.html icon="reddit" %}</a>
-  <a class="icon" href="https://twitter.com/gamekeller">{% include icon.html icon="twitter" %}</a>
-  <a class="icon" href="https://gamekeller.net/">{% include icon.html icon="gamekeller" %}</a>
-</div>
+Sehr gerne, wir freuen uns immer, wenn jemand Fehler findet, die wir beheben können oder Leute sogar komplett neue Rollen (er)finden. Entweder du kommst einfach ins Teamspeak, eröffnest ein Ticket im [GitHub Bug Tracker](https://github.com/mrumler/mafia/), oder schreibst Endstille eine [E-Mail](mailto:admin@arrestia.de).
 
 ---
 
