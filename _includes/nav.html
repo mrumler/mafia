@@ -17,6 +17,9 @@
       {% if page.url == "/roles/" %}
         {% include nav-roles.html %}
       {% endif %}
+      {% if page.url == "/roles-all/" %}
+        {% include nav-roles.html %}
+      {% endif %}
     </li>
     <li{% if page.url == "/thanks/" %} class="active"{% endif %}>
       <a href="{{ page.base_url }}thanks/">Danksagung</a>
