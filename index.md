@@ -7,7 +7,7 @@ base_url: "../"
 
 <h1 class="banner">Mafia</h1>
 
-Hallo und herzlich willkommen auf der Gamekeller Teamspeak Mafia Seite!
+Hallo und herzlich willkommen auf der Mafia-Seite!
 
 ### Was ist Mafia?
 
