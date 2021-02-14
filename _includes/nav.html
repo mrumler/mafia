@@ -14,10 +14,7 @@
     </li>
     <li{% if page.url == "/roles/" %} class="active"{% endif %}>
       <a href="{{ page.base_url }}roles/">Rollen</a>
-      {% if page.url == "/roles/" %}
-        {% include nav-roles.html %}
-      {% endif %}
-      {% if page.url == "/roles-all/" %}
+      {% if page.url == "/roles/" or page.url == "/roles-all/" %}
         {% include nav-roles.html %}
       {% endif %}
     </li>
